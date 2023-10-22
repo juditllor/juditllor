@@ -1,44 +1,33 @@
-# Hello, my name is Judit Llorens Díaz!
-### Master in Big Data and Business Analytics student at IE
+# <span style="color:blue">Hi! My name is Judit Llorens</span>
+### <span style="color:blue">MSc in Business Analytics and Big Data (AI)</span>
 
-I'm a MSc in Big Data and Business Analytics student at IE (more focusing in Advanced AI)
-with experience in different companies.
-Deploying and integrating Data Driven applications in tech, telco, retail and insurance fields.
-Working in different cloud environments to deploy the best possible solutions.
-Always trying to learn news things related to data and hardware.    
+I'm a MSc in Business Analytics and Big Data student at IE with a specialization in Advanced AI, focusing on deep learning, NLP, Computer Vision, MLOps, and sustainability. 
 
-  
+A versatile professional with a track record in the Consulting, Manufacturing sector, and Food Industry. Possessing a strong ability to adapt and demonstrate creativity in approaching challenges. Proactive, skilled in data analysis languages and Business Intelligence solutions, having participated in a diverse amount of projects involving SQL, machine learning, and deep learning. Passionate about problem-solving and a team player.
 
-<!--
-https://ileriayo.github.io/markdown-badges/
--->
+My objective is to learn new things related to data and innovation!
 
-## Technologies:
+## <span style="color:blue">Technologies:</span>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=whitee)
-![Datakiu](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-0096D0?style=for-the-badge&logo=looker&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)
+![Sage](https://img.shields.io/badge/Sage-00A4E4?style=for-the-badge&logo=sage&logoColor=white)
+![Share](https://img.shields.io/badge/Share-00A3E4?style=for-the-badge&logo=share&logoColor=white)
+![WF](https://img.shields.io/badge/WF-00A1E4?style=for-the-badge&logo=wf&logoColor=white)
+![Google tools](https://img.shields.io/badge/Google%20tools-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Certified Data Analytics](https://img.shields.io/badge/AWS%20Certified%20Data%20Analytics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-DE4841?style=for-the-badge&logo=hadoop&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-</br>
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-</br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-</br>
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-</br>
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-</br>
-
 
 ## Contact:
-
-[![Email](https://img.shields.io/badge/hello@gustavomart.in-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](juditllorens@gmail.com)
+[![Email](https://img.shields.io/badge/juditllorens@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juditllorens@gmail.com)
