@@ -1,5 +1,5 @@
-# <span style="color:blue">Hi! My name is Judit Llorens</span>
-### <span style="color:blue">MSc in Business Analytics and Big Data (AI)</span>
+# <span style="color:pink">Hi! My name is Judit Llorens</span>
+### <span style="color:pink">MSc in Business Analytics and Big Data (AI)</span>
 
 I'm a MSc in Business Analytics and Big Data student at IE with a specialization in Advanced AI, focusing on deep learning, NLP, Computer Vision, MLOps, and sustainability. 
 
@@ -7,7 +7,7 @@ A versatile professional with a track record in the Consulting, Manufacturing se
 
 My objective is to learn new things related to data and innovation!
 
-## <span style="color:blue">Technologies:</span>
+## <span style="color:pink">Technologies:</span>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-0096D0?style=for-the-badge&logo=looker&logoColor=white)
@@ -31,3 +31,4 @@ My objective is to learn new things related to data and innovation!
 
 ## Contact:
 [![Email](https://img.shields.io/badge/juditllorens@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juditllorens@gmail.com)
+
