@@ -1,11 +1,16 @@
 # <span style="color:pink">Hi! My name is Judit Llorens</span>
 ### <span style="color:pink">MSc in Business Analytics and Big Data (AI)</span>
 
-I'm a MSc in Business Analytics and Big Data student at IE with a specialization in Advanced AI, focusing on deep learning, NLP, Computer Vision, MLOps, and sustainability. 
+I'm a MSc in Business Analytics and Big Data student at IE with a specialization in Advanced AI, focusing on Deep Learning, NLP, Computer Vision, MLOps, and sustainability. 
 
 A versatile professional with a track record in the Consulting, Manufacturing sector, and Food Industry. Possessing a strong ability to adapt and demonstrate creativity in approaching challenges. Proactive, skilled in data analysis languages and Business Intelligence solutions, having participated in a diverse amount of projects involving SQL, machine learning, and deep learning. Passionate about problem-solving and a team player.
 
 My objective is to learn new things related to data and innovation!
+
+## 💼 Experience
+
+- Data Scientist at [Company/Organization]
+- Data Analyst at [Company/Organization]
 
 ## 🎓 Certifications
 
