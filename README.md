@@ -9,9 +9,9 @@ My objective is to learn new things related to data and innovation!
 
 ## 💼 Experience
 
-- Business Conusltant and Accountant at [Ros Companys Associats, SL - Manresa (Barcelona)]
-- International Sales and Accountant at [Fainplast, SL - Igualada (Barcelona)]
-- HRBP at [Danone - Barcelona]
+- Business Conusltant and Accountant at [Ros Companys Associats, SL - Manresa (Barcelona), Spain]
+- International Sales and Accountant at [Fainplast, SL - Igualada (Barcelona), Spain]
+- HRBP at [Danone - Barcelona, Spain]
 
 ## 🎓 Certifications
 
