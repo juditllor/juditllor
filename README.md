@@ -7,6 +7,14 @@ A versatile professional with a track record in the Consulting, Manufacturing se
 
 My objective is to learn new things related to data and innovation!
 
+## 🎓 Certifications
+
+- [Programming for everybody (Getting started with Python) by University of Michigan] (https://www.coursera.org/account/accomplishments/verify/S46C6A5A7HQV): Completed course covering python basic concepts.
+- [SQL and Relational Databases 101 by IBM](https://courses.cognitiveclass.ai/certificates/8aca34f8d53d47ec82afb1b037d0734f)): Completed course covering SQL basic concepts.
+- [AWS Certified Cloud Practitioner] In progress, covering topics of the cloud, services, and terminology of AWS.
+- [Data Science, Machine Learning and AI for Business by IE](https://www.preprograms.ie.edu/gwc/certificate_download/QWL4u5Y0g7v): Completed course covering ML basic concepts.
+
+
 ## <span style="color:pink">Technologies:</span>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -29,8 +37,9 @@ My objective is to learn new things related to data and innovation!
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-## Contact:
-[![Email](https://img.shields.io/badge/juditllorens@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juditllorens@gmail.com)
+## 📫 Get in Touch
+- Email: [(https://img.shields.io/badge/juditllorens@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juditllorens@gmail.com)
+- LinkedIn: [Judit Llorens Díaz](www.linkedin.com/in/judit-llorens)
 
 ## <span style="color:pink">Gift:</span>
 <span style="color:blue"> 📊 here's a data science tip: "Always start your data analysis with a clear understanding of the problem and the desired outcome. Define your goals before diving into the data."</span>
