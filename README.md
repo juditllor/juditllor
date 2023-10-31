@@ -10,7 +10,7 @@ My objective is to learn new things related to data and innovation!
 ## 🎓 Certifications
 
 - [Programming for everybody (Getting started with Python) by University of Michigan] (https://www.coursera.org/account/accomplishments/verify/S46C6A5A7HQV): Completed course covering python basic concepts.
-- [SQL and Relational Databases 101 by IBM](https://courses.cognitiveclass.ai/certificates/8aca34f8d53d47ec82afb1b037d0734f)): Completed course covering SQL basic concepts.
+- [SQL and Relational Databases 101 by IBM] (https://courses.cognitiveclass.ai/certificates/8aca34f8d53d47ec82afb1b037d0734f)): Completed course covering SQL basic concepts.
 - [AWS Certified Cloud Practitioner] In progress, covering topics of the cloud, services, and terminology of AWS.
 - [Data Science, Machine Learning and AI for Business by IE](https://www.preprograms.ie.edu/gwc/certificate_download/QWL4u5Y0g7v): Completed course covering ML basic concepts.
 
