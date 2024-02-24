@@ -8,10 +8,11 @@ A versatile professional with a track record in the Consulting, Manufacturing se
 My objective is to learn new things related to data and innovation!
 
 ## 💼 Experience
-
-- Business Conusltant and Accountant at [Ros Companys Associats, SL - Manresa (Barcelona), Spain]
-- International Sales and Accountant at [Fainplast, SL - Igualada (Barcelona), Spain]
+- Data Scientist at [Roche - Barcelona, Spain]
+- Data Scientist at [Fitizens - Madrid, Spain]
 - HRBP at [Danone - Barcelona, Spain]
+- Business Conusltant and Accountant at [Ros Companys Associats, SL - Manresa (Barcelona), Spain]
+- International Marketing and Accountant at [Fainplast, SL - Igualada (Barcelona), Spain]
 
 ## 🎓 Certifications
 
