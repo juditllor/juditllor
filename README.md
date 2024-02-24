@@ -48,7 +48,7 @@ My objective is to learn new things related to data and innovation!
 
 
 ## 📫 Get in Touch
-- Email: [(https://img.shields.io/badge/juditllorens@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juditllorens@gmail.com)
+- Email: (mailto:juditllorens@gmail.com)
 - LinkedIn: (www.linkedin.com/in/judit-llorens)
 
 ## <span style="color:pink">Gift:</span>
